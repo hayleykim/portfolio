@@ -21,7 +21,7 @@ const Menu = [
     {
       id: 3,
       image: Work3,
-      title: "Recipe web app with EJS, Express, MongoDB & Node",
+      title: "Recipe web app with EJS, Express, MongoDB, Node & OAuth",
       category: "JavaScript",
       url: "https://recipe-by-continent.onrender.com/recipes",
     },
