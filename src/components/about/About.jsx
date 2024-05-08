@@ -15,7 +15,7 @@ export default function About () {
                 <div className="about__data grid">
                     <div className="about__info">
                         <p className="about__description">Hey there! I'm a junior software developer with a passion for all things programming. Armed with a degree in IT and fueled by endless cups of coffee, I would love to dive into projects headfirst and any challenge that comes my way.</p>
-                        <a href="https://drive.google.com/file/d/13U370TzwqHFN_h-WiM17Pt_XZSUOSo76/view?usp=drive_link" className="btn"> Download Resume</a>
+                        <a href="https://drive.google.com/file/d/1VUBWVCEX9F3koCxgHYKj-tFda0n7zrOg/view?usp=drive_link" className="btn"> Download Resume</a>
                     </div>
 
                     <div className="about__skills grid">
