@@ -2,6 +2,7 @@ import Work1 from "../../assets/work-1.png"
 import Work2 from "../../assets/work-2.png"
 import Work3 from "../../assets/work-3.png"
 import Work4 from "../../assets/work-4.png"
+import portfolioWeather from "../../assets/portfolio-weather.png"
 
 const Menu = [
     {
@@ -13,13 +14,20 @@ const Menu = [
     },
     {
       id: 2,
+      image: portfolioWeather,
+      title: "Weather web app with React.js & Weather API",
+      category: "React",
+      url: "https://reactweatherwebapplication.netlify.app/",
+    },
+    {
+      id: 3,
       image: Work2,
       title: "Restaurant web app with Python & Django",
       category: "Python",
       url: "https://sparrowsmillexpress.onrender.com/",
     },
     {
-      id: 3,
+      id: 4,
       image: Work3,
       title: "Recipe web app with EJS, Express, MongoDB, Node & OAuth",
       category: "JavaScript",
@@ -27,7 +35,7 @@ const Menu = [
     },
     ,
     {
-      id: 4,
+      id: 5,
       image: Work4,
       title: "Mastermind game with HTML, CSS, JavaScript",
       category: "JavaScript",
