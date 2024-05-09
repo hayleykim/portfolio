@@ -30,10 +30,19 @@ const Data = [
         id: 4,
         cateogry: "experience",
         icon: "icon-briefcase",
-        year: "2021 - 2023",
+        year: "2022 - 2023",
         company: "Navan",
         title: "Travel Experience Agent",
         desc: "Used Salesforce and GDS system to modify bookings (Sabre, Amadeus)"
+    },
+    {
+        id: 5,
+        cateogry: "experience",
+        icon: "icon-briefcase",
+        year: "2020 - 2021",
+        company: "Codex Research Pty Ltd",
+        title: "Front-end web developer (Internship)",
+        desc: "Employed HTML, CSS, and JavaScript to develop a website for Codex Research, working with the UX/UI designer and project coordinators"
     },
     {
         id: 6,
@@ -41,7 +50,7 @@ const Data = [
         icon: "icon-briefcase",
         year: "2019",
         company: "The Studio",
-        title: "Front-end developer (Internship)",
+        title: "Front-end web developer (Internship)",
         desc: "Created and launched an official website of The Studio with the team of three 'https://www.thestudio.org.au/' (Currently down)"
     },
     {
